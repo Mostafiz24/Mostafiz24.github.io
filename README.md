@@ -102,7 +102,7 @@ He completed:
 - 📝 Assignments
 - 📊 Datasets
 
-👉 Visit: **https://mostafizahammed.github.io**
+👉 Visit: **https://mostafiz24.github.io**
 
 ---
 
@@ -135,7 +135,7 @@ IoT • Robotics • Embedded Systems • AI/ML • Networking • Data Science
 📧 Email: mostafiz0003@uftb.ac.bd 
 🔗 Google Scholar: https://scholar.google.com/citations?user=T_ehJtgAAAAJ&hl=en&authuser=1
 🔗 LinkedIn: https://www.linkedin.com/in/mostafiz-ahammed-7b4266106/
-🔗 GitHub Pages Website: https://mostafizahammed.github.io  
+🔗 GitHub Pages Website: https://mostafiz24.github.io
 
 ---
 
